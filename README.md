@@ -1,7 +1,7 @@
 # weather-dashboard
 
-Link to live application: https://jenn-renken.github.io/weather-dashboard/
-Link to repo: https://github.com/jenn-renken/weather-dashboard
+- Link to live application: https://jenn-renken.github.io/weather-dashboard/
+- Link to repo: https://github.com/jenn-renken/weather-dashboard
 
 ## Features
 - Search for a city to view current weather and five day forecast
